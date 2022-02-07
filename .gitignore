@@ -3,3 +3,4 @@
 /parcel-cache
 .prettierignore
 .eslintrc.json
+.prettierrc.json

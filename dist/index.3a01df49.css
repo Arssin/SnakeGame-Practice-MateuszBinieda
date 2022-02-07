@@ -12,6 +12,19 @@ body {
   background-color: grey;
   width: 100vmin;
   height: 100vmin;
+  display: grid;
+  grid-template-rows: repeat(21, 1fr);
+  grid-template-columns: repeat(21, 1fr);
+}
+
+.snake {
+  background-color: green;
+  border: 0.25vmin solid black;
+}
+
+.food {
+  background-color: yellow;
+  border: 0.25vmin solid black;
 }
 
 /*# sourceMappingURL=index.3a01df49.css.map */
