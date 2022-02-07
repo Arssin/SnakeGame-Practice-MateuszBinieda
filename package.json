@@ -4,7 +4,7 @@
   "description": "HTML, CSS, JAVASCRIPT -> practice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "dependencies": {
     "eslint": "^8.8.0",
     "prettier": "^2.5.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
   }
 }

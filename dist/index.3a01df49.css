@@ -4,5 +4,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0;
+  background-color: black;
+}
+
+#game-board {
+  background-color: grey;
 }
 /*# sourceMappingURL=index.3a01df49.css.map */
