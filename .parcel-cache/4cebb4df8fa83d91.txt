@@ -3,12 +3,12 @@
 101C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\node_modules\caniuse-lite\data\regions\MD.js132948486357159355 0
 87C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\node_modules\nan\nan_private.h132948486338499350 0
 61C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\dist132966010700083400 1
-69C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\package.json132948485863321423 0
+69C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\package.json132966017898115026 0
 89C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\node_modules\css-tree\lib\common132948486349069362 1
 102C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\node_modules\htmlnano\docs\docs\030-config.md132948486345499361 0
 92C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\node_modules\yaml\browser\scalar.js132948486340969370 0
 85C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\node_modules\fast-deep-equal132948486334079369 1
-67C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\.gitignore132948485862831476 0
+67C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\.gitignore132966012353252539 0
 93C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\node_modules\terser\bin\package.json132948486344489367 0
 108C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\node_modules\type-fest\source\iterable-element.d.ts132948486337819356 0
 92C:\Users\Songo\Desktop\SnakeGame-Practice-MateuszBinieda\node_modules\commander\package.json132948486329129371 0
